@@ -34,7 +34,7 @@ cifar10-resnet/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/nairanikita/Modified-Resnet
+git clone https://github.com/nairanikita/Modified-Resnet/tree/main
 ```
 
 ### Install Dependencies
